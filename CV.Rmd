@@ -1,0 +1,231 @@
+---
+title: "Dr. rer. nat. Mathias Sander"
+author: "Dr. rer. nat. Mathias Sander"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Mathias Sander](bewerbung3.jpg){width=80%}
+
+
+Kontakt {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-phone"></i> +49 XXX XXX XXX X
+- <i class="fa fa-envelope"></i> xxx@yyy.de
+- <i class="fa fa-github"></i> [github.com/matdataR](https://github.com/matdataR)
+
+- Bei Fragen kontaktieren Sie mich gerne per Telefon oder E-Mail.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Datenanalyse und -visualisierung 
+
+- Programmierung in R, SQL, Python
+
+- Spaß an quantitativen Fragestellungen
+
+- Kontinuierliche Weiterentwicklung
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+`r format(Sys.Date(), "%d.%m.%Y")`
+
+
+
+Main
+================================================================================
+
+Dr. Mathias Sander {#title}
+--------------------------------------------------------------------------------
+
+### Regulatory Affairs Manager - Schwerpunkt klinische Statistik und Datenmanagement
+
+Über Mich {data-icon=user}
+--------------------------------------------------------------------------------
+
+### am 29.08.1983 
+
+N/A
+
+N/A
+
+Geboren 
+
+### Saarbrücken
+
+N/A
+
+N/A
+
+in
+
+### verheiratet, 2 Kinder
+
+N/A
+
+N/A
+
+Familie
+
+### TBA
+
+N/A
+
+N/A
+
+Wohnort
+
+Berufserfahrung {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Regulatory Affairs Manager - Statistik und Datenmanagement
+
+pfm medical ag
+
+Nonnweiler, Saarland
+
+01/2017-aktuell
+
+
+- Statistische Beratung (Methodik, Fallzahlplanung, Studiendesign)
+- Statistische Analyse klinischer Daten mit R
+- Erstellung statistischer Analysepläne für klinische Studien
+- Erstellung statistischer Berichte
+- Erstellung von elektronischer Prüfbögen und Fragebögen
+- Softwarevalidierung im Bereich statistischer Programmierung (R) und elektronischer Datenerfassungsysteme für klinische Studien
+- Durchführung interner und externer Schulungen
+
+
+### Regulatory Affairs Manager - Post Market Surveillance
+
+pfm medical ag
+
+Nonnweiler, Saarland
+
+07/2016 - 12/2017
+
+
+- Post Market Surveillance von Medizinprodukten
+- Erstellung klinischer Bewertungen für Medizinprodukte (Klasse Is-III) 
+- Bewertung wissenschaftlicher Literatur
+- Risikomanagement
+- Durchführung interner Schulungen
+
+### Wissenschaftlicher Mitarbeiter
+
+Universität des Saarlandes
+
+Saarbrücken, Saarland
+
+2009 - 06/2016
+
+
+- Erstellung und Abschluss einer Dissertation im Bereich Biophysik
+- Experimentelle Untersuchung der mechanischen Eigenschaften lebender Zellen und Gewebe
+- Auswertung der Experimente mittels Signalanalyse (Oversampling, Fourier Transformation)
+- Theoretische Modellierung der experimentellen Ergebnisse (Numerische Lösung gekoppelter Differentialgleichungen und stochastischer Stabmodelle mittels Matlab)
+
+
+Lehrerfahrung {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Schulung statistische Methodik, R-Programmierung, Prozesse (Standard Operating Procedures, SOP) zu Statistik und Datenmanagement, Nutzung elektonischer Datenerfassungsysteme für klinische Studien
+
+pfm medical ag
+
+Nonnweiler, Saarland
+
+seit 2018
+
+### Schulung Prozess wissenschaftliche Literatursuche und -bewertung
+
+pfm medical ag
+
+Nonnweiler, Saarland
+
+seit 2017
+
+### Grundlagen der Physik
+
+Universität des Saarlandes
+
+Saarbrücken, Saarland
+
+2009-2016
+
+
+
+Ausbildung {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universität des Saarlandes
+
+Dissertation im Bereich Biophysik (Verteidigt 2017) 
+
+Saarbrücken, Saarland
+
+2009-2016
+
+Thesis: Mechanik biologischer Materialien - Von der Zelle zum Gewebe
+
+### Universität des Saarlandes
+
+Diplom Physik
+
+Saarbrücken, Saarland
+
+2003-2009
+
+Thesis: Mechanische Eigenschaften lebender Zellen
+
+
+Publikationen {data-icon=file}
+--------------------------------------------------------------------------------
+
+ 
+
+### A comparison of methods to assess cell mechanical properties.
+
+Nat Methods. 2018 Jul;15(7):491-498. doi: 10.1038/s41592-018-0015-1. Epub 2018 Jun 18. PMID: 29915189; PMCID: PMC6582221.
+
+N/A
+
+2018
+
+Wu PH, Aroush DR, Asnacios A, Chen WC, Dokukin ME, Doss BL, Durand-Smet P, Ekpenyong A, Guck J, Guz NV, Janmey PA, Lee JSH, Moore NM, Ott A, Poh YC, Ros R, **Sander M**, Sokolov I, Staunton JR, Wang N, Whyte G, Wirtz D. 
+
+
+### Large Amplitude Oscillatory Shear Rheology of Living Fibroblasts: Path-Dependent Steady States.
+
+Biophys J. 2017 Oct 3;113(7):1561-1573. doi: 10.1016/j.bpj.2017.07.032. PMID: 28978448; PMCID: PMC5627183.
+
+N/A
+
+2017
+
+**Sander M**, Dobicki H, Ott A.
+
+ 
+
+### Using cell monolayer rheology to probe average single cell mechanical properties.
+
+Biorheology. 2015;52(4):269-78. doi: 10.3233/BIR-15070. PMID: 26639359.
+
+N/A
+
+2015
+
+**Sander M**, Flesch J, Ott A. 
